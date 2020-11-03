@@ -1,2 +1,2 @@
 # GPIO-Driver
-AVR ATmega GPIO Peripheral Driver.
+AVR ATmega Microcontroller GPIO Peripheral Driver.
